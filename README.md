@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pardha Saradhi Raju</h1>
 <h3 align="center">👋 Hi, I'm Pardha Saradhi Raju, a Computer Science final-year student at VIT Chennai with a passion for building impactful tech solutions. My experience ranges from developing machine learning-powered websites for plant disease detection to creating full-stack applications using the MERN stack. I'm skilled in C++, Python, JavaScript, React, and more, and I've interned as a Full Stack Developer at CodersCave. I'm always eager to learn, adapt, and contribute to innovative projects that make a difference. Check out my projects and let's connect!</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)">
-
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=pardha-saradhi-raju&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)" alt="pardha-saradhi-raju" /> </p>
+<img alt="Coder GIF" height=250 width=400 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 - 👯 I’m looking to collaborate on **MERN stack**
 
