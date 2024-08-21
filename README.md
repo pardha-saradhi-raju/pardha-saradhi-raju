@@ -3,11 +3,16 @@
 <h1 align="center">Hi 👋, I'm Pardha Saradhi Raju</h1>
 <h3 align="center">👋 Hi, I'm Pardha Saradhi Raju, a Computer Science final-year student at VIT Chennai with a passion for building impactful tech solutions. My experience ranges from developing machine learning-powered websites for plant disease detection to creating full-stack applications using the MERN stack. I'm skilled in C++, Python, JavaScript, React, and more, and I've interned as a Full Stack Developer at CodersCave. I'm always eager to learn, adapt, and contribute to innovative projects that make a difference. Check out my projects and let's connect!</h3>
 
-<img alt="Coder GIF" height=250 width=400 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img alt="Coder GIF" width=400 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
 - 👯 I’m looking to collaborate on **MERN stack**
 
-- 👨‍💻 All of my projects are available at [1) https://food-delivery-frontend-dusky.vercel.app/ 2)https://weather-estimator-application.vercel.app/ 3) https://random-password-generator-dun.vercel.app/](1) https://food-delivery-frontend-dusky.vercel.app/ 2)https://weather-estimator-application.vercel.app/ 3) https://random-password-generator-dun.vercel.app/)
+- 👨‍💻 All of my projects are available at [1) https://food-delivery-frontend-dusky.vercel.app/
+- 2)https://weather-estimator-application.vercel.app/
+- 3) https://random-password-generator-dun.vercel.app/]
+  4) (1) https://food-delivery-frontend-dusky.vercel.app/
+  5) 2)https://weather-estimator-application.vercel.app/
+  6) 3) https://random-password-generator-dun.vercel.app/)
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Doradla-Pardha-Saradhi-Raju](https://www.quora.com/profile/Doradla-Pardha-Saradhi-Raju)
 
