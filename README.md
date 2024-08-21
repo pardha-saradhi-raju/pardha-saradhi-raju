@@ -7,13 +7,6 @@
 
 - 👯 I’m looking to collaborate on **MERN stack**
 
-- 👨‍💻 All of my projects are available at [1) https://food-delivery-frontend-dusky.vercel.app/
-- 2)https://weather-estimator-application.vercel.app/
-- 3) https://random-password-generator-dun.vercel.app/]
-  4) (1) https://food-delivery-frontend-dusky.vercel.app/
-  5) 2)https://weather-estimator-application.vercel.app/
-  6) 3) https://random-password-generator-dun.vercel.app/)
-
 - 📝 I regularly write articles on [https://www.quora.com/profile/Doradla-Pardha-Saradhi-Raju](https://www.quora.com/profile/Doradla-Pardha-Saradhi-Raju)
 
 - 💬 Ask me about **JavaScript, ReactJS, NodeJS, ExpressJS, PHP, MySQL, Tailwind MongoDB**
