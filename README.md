@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pardha Saradhi Raju</h1>
 <h3 align="center">👋 Hi, I'm Pardha Saradhi Raju, a Computer Science final-year student at VIT Chennai with a passion for building impactful tech solutions. My experience ranges from developing machine learning-powered websites for plant disease detection to creating full-stack applications using the MERN stack. I'm skilled in C++, Python, JavaScript, React, and more, and I've interned as a Full Stack Developer at CodersCave. I'm always eager to learn, adapt, and contribute to innovative projects that make a difference. Check out my projects and let's connect!</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pardha-saradhi-raju&label=Profile%20views&color=0e75b6&style=flat" alt="pardha-saradhi-raju" /> </p>
 
 - 👯 I’m looking to collaborate on **MERN stack**
