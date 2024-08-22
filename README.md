@@ -1,3 +1,6 @@
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHLXbKleibzKQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1672410732396?e=1729728000&v=beta&t=BBsh_ddJiowR-HAFr94_ytzRRsX3KnWUmmyOu4HInBg)](https://rishavchanda.io)
+
+
 <h1 align="center">Hi 👋, I'm Pardha Saradhi Raju</h1>
 <h3 align="center">
   👋 Hi, I'm Pardha Saradhi Raju, a Computer Science final-year student at VIT Chennai with a passion for building impactful tech solutions. 
